@@ -5,6 +5,14 @@
 > 面向《帝国时代2：决定版》模组 **「文明联盟」(Civilization Alliance)** 的全文明数据整理，以及**各流派「最优研究顺序」**推荐。
 > 62 个文明的全部特性逐条整理；11 个流派各自一张推荐表；所有结论都与游戏官方简体中文字串、官方 `CivTechTrees` JSON、`empires2_x2_p1.dat` 交叉验证。
 
+## ⬇️ 直接下载（推荐）
+
+**不想用 git？点这里一次下齐全部内容：**
+
+### 📦 [**下载 v1.0 压缩包（37 MB，13 张表 + 62 张卡片）**](https://github.com/198agk/aoe2de-civilization-guide/releases/latest)
+
+解压即用，无需安装任何东西。也可以用下面的 git 命令克隆。
+
 ---
 
 ## 一、这是什么
@@ -107,13 +115,15 @@
 
 ## 五、使用方法
 
-1. 克隆或直接下载本仓库：
-   ```bash
-   git clone https://github.com/198agk/aoe2de-civilization-guide.git
-   ```
-2. 用 **Excel / WPS / LibreOffice** 打开 `tables/` 下（本仓库为平铺）对应流派的 xlsx。
-3. 先看「说明」页了解口径与未验证项。
-4. 按「主选文明推荐」定底座 → 按「开局3免费位」点前 3 个 → 按「后续2000金顺序」往下补。
+1. **下载**（二选一）：
+   - 点最上面的 [**v1.0 压缩包**](https://github.com/198agk/aoe2de-civilization-guide/releases/latest) 直接下全部内容；或
+   - 克隆仓库：
+     ```bash
+     git clone https://github.com/198agk/aoe2de-civilization-guide.git
+     ```
+2. 用 **Excel / WPS / LibreOffice** 打开对应流派的 xlsx（所有文件平铺在根目录）。
+3. 先看**「说明」页**了解口径与未验证项。
+4. 按**「主选文明推荐」**定底座 → 按**「开局3免费位」**点前 3 个 → 按**「后续2000金顺序」**往下补。
 5. 存疑的条目，回 `01`–`62` 的卡片原图核对。
 
 ---
