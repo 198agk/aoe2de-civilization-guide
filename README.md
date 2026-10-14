@@ -35,11 +35,12 @@
 
 ## 二、内容清单
 
-### 📊 总表（1 张）
+### 📊 总表（2 张）
 
 | 文件 | 内容 | 页数 |
 |---|---|---|
 | `帝国时代2决定版 文明联盟 全文明特色.xlsx` | 62 文明 × 4 栏（文明定位 / 主要功能 / 独特科技 / 团队加成）+ 独特单位 | 2 |
+| `帝国时代2决定版 文明联盟 资源经济加成总表 By RemonBo.xlsx` | 全部**有利于资源**的条目，按 11 个类别归类（202 条；团队加成 62 条中利于资源者 15 条） | 4 |
 
 ### 🎯 流派推荐表（11 张）
 
@@ -129,6 +130,7 @@
 
 **数据内容**
 全文明特色、文明特色、文明特性、全文明数据、文明加成、文明一览、文明对比、文明强度、独特科技、金冠科技、银冠科技、团队加成、组队加成、独特单位、文明卡片、文明卡、数据表、Excel 表格、对照表、总表、攻略表
+资源加成、资源经济、经济加成、资源总表、采果、伐木、采矿、种田、贸易、农田、村民效率、经济科技
 
 **流派 / 打法**
 最优研究顺序、研究顺序、开局顺序、开局三选、开局3免费位、首发选择、选择顺序、优先级、推荐顺序、2000金、买什么、怎么选、怎么点、加点顺序、流派、打法、套路、战术
@@ -186,6 +188,7 @@ This repository contains:
 - **Optimal research orders for 11 playstyles** — Tower, Bombard Tower, Castle, Infantry, Archer, Cavalry Archer, Cavalry, Scorpion, Trebuchet, Economy, and Naval
 - **Best base-civilization recommendations** per playstyle (tech-tree completeness + native bonuses + weaknesses)
 - **62 original civilization card images** — the primary source for every entry
+- **A resource-economy summary** of all economy-related bonuses, grouped into 11 categories
 
 Every playstyle workbook follows an 8-sheet layout: `3 free picks`, `2000-gold order`, `Class A — core upgrades`, `Class B — cost & prerequisites`, `Irrelevant civs (skip)`, `Best base civ`, `Full 62-civ ranking`, and `Notes`.
 
