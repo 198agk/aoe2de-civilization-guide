@@ -3,7 +3,7 @@
 ### Age of Empires II: Definitive Edition — Civilization Guide
 
 > 面向《帝国时代2：决定版》模组 **「文明联盟」(Civilization Alliance)** 的全文明数据整理，以及**各流派「最优研究顺序」**推荐。
-> 62 个文明的全部特性逐条整理；11 个流派各自一张推荐表；所有结论都与游戏官方简体中文字串、官方 `CivTechTrees` JSON、`empires2_x2_p1.dat` 交叉验证。
+> 62 个文明的全部特性逐条整理；14 个流派各自一张推荐表；所有结论都与游戏官方简体中文字串、官方 `CivTechTrees` JSON、`empires2_x2_p1.dat` 交叉验证。
 
 ## ⬇️ 直接下载（推荐）
 
@@ -24,7 +24,7 @@
 本仓库回答的正是这个问题，并给出：
 
 - 📋 **62 个文明的全量特性总表**（主要功能 / 独特科技 / 团队加成 / 独特单位）
-- 🎯 **11 个流派的最优研究顺序**（开局 3 免费位 → 后续 2000 金顺序 → 全 62 文明总名次）
+- 🎯 **14 个流派的最优研究顺序**（开局 3 免费位 → 后续 2000 金顺序 → 全 62 文明总名次）
 - 🏆 **每个流派的主选文明推荐**（该流派用哪个文明当底座最强）
 - 🖼️ **62 张文明卡片原图**（一切数据的原始依据）
 
@@ -50,7 +50,7 @@
 | `帝国时代2决定版 文明联盟 全文明特色.xlsx` | 62 文明 × 4 栏（文明定位 / 主要功能 / 独特科技 / 团队加成）+ 独特单位 | 2 |
 | `帝国时代2决定版 文明联盟 资源经济加成总表 By RemonBo.xlsx` | 全部**有利于资源**的条目，按 11 个类别归类（202 条；团队加成 62 条中利于资源者 15 条） | 4 |
 
-### 🎯 流派推荐表（11 张）
+### 🎯 流派推荐表（14 张）
 
 | 文件 | 流派 | 核心问题 |
 |---|---|---|
@@ -58,9 +58,12 @@
 | `… 炮塔流最优研究顺序 …` | 炮塔（Bombard Tower） | 帝王期炮塔怎么成型 |
 | `… 城堡流最优研究顺序 …` | 城堡 / 防御工事 | 城堡推、城堡防守 |
 | `… 步兵流最优研究顺序 …` | 步兵 / 民兵系 | 步兵海、步兵强攻 |
-| `… 弓兵流最优研究顺序 …` | 步弓手 / 掷矛手系 | 弓兵推、远程压制 |
+| `… 弓兵流最优研究顺序 …` | 步弓手 / 弓兵系 | 弓兵推、远程压制 |
+| `… 掷矛手流最优研究顺序 …` | 掷矛手 / 投石手 | 反弓兵、消耗流 |
 | `… 骑射流最优研究顺序 …` | 骑射手 | 骑射骚扰、机动火力 |
-| `… 骑兵流最优研究顺序 …` | 骑士 / 斥候 / 骆驼 / 象兵 | 骑兵冲阵 |
+| `… 骑兵流最优研究顺序 …` | 骑士 / 斥候 / 骆驼 | 骑兵冲阵 |
+| `… 象兵流最优研究顺序 …` | 战象 / 骑象弓兵 | 象兵一波流 |
+| `… 火枪手流最优研究顺序 …` | 火枪手 / 火药单位 | 火药成型、火枪推 |
 | `… 弩车流最优研究顺序 …` | 蝎式弩 / 攻城武器 | 弩车推建筑 |
 | `… 巨型投石机流最优研究顺序 …` | 巨型投石机 | 拆城攻坚 |
 | `… 发育经济流最优研究顺序 …` | 村民 / 经济 / 资源 | 纯发育、长局经济 |
@@ -148,9 +151,12 @@
 炮塔流、炮塔、Bombard Tower、火绳枪、Arquebus
 城堡流、城堡推、城堡攻、防御工事、城楼、营垒
 步兵流、步兵海、民兵系、剑士、长剑士、冠军剑士、长矛兵、戟兵
-弓兵流、步弓手、弓兵推、弩手、强弩兵、掷矛手、标枪兵、长弓兵
+弓兵流、步弓手、弓兵推、弩手、强弩兵、长弓兵
+掷矛手流、掷矛手、标枪兵、投石手、掷矛器、胡尔切掷矛兵、安第斯弹弓、反弓兵
 骑射流、骑射手、马弓、帕提亚战术、扳指
-骑兵流、骑士、圣骑士、游侠、斥候、轻骑兵、骆驼兵、象兵、冲车
+骑兵流、骑士、圣骑士、游侠、斥候、轻骑兵、骆驼兵、冲车
+象兵流、战象、象兵、骑象弓兵、重弩战象、象轿、獠牙剑、宝伞
+火枪手流、火枪手、火枪、火药单位、化学、手推炮、炮舰、印度火铳、烟火之术、火绳枪
 弩车流、蝎式弩、弩炮、重型蝎式弩、攻城武器
 巨型投石机流、巨型投石机、投石机、抛石机、牵引抛石机、拆城
 发育流、经济流、发育经济流、种田、爆经济、村民、采果工、伐木工、采矿工、贸易、市场、农田
@@ -158,11 +164,11 @@
 主选文明、底座文明、本命文明、选哪个文明、哪个文明好
 
 **常见问法**
-帝国时代2文明联盟怎么玩、文明联盟按钮怎么选、文明联盟先选什么、文明联盟开局选什么、文明联盟哪个文明强、帝国2决定版全文明加成、帝国2文明特色表、帝国2流派怎么打、箭塔流怎么开局、炮塔流顺序、骑兵流怎么选、海战流选什么文明
+帝国时代2文明联盟怎么玩、文明联盟按钮怎么选、文明联盟先选什么、文明联盟开局选什么、文明联盟哪个文明强、帝国2决定版全文明加成、帝国2文明特色表、帝国2流派怎么打、箭塔流怎么开局、炮塔流顺序、骑兵流怎么选、海战流选什么文明、象兵流怎么玩、火枪手流顺序、掷矛手流怎么选
 
 **English**
 Age of Empires 2, Age of Empires II, Definitive Edition, AoE2DE, civilization guide, civilization bonuses, civ list, unique tech, team bonus, unique unit, Civilization Alliance mod, tech buttons, alliance, build order, research order, optimal order, tier list, spreadsheet, walkthrough
-tower rush, bombard tower, castle drop, infantry, archer, cavalry archer, cavalry, scorpion, trebuchet, economy boom, naval, best base civilization
+tower rush, bombard tower, castle drop, infantry, archer, skirmisher, cavalry archer, cavalry, war elephant, hand cannoneer, gunpowder, scorpion, trebuchet, economy boom, naval, best base civilization
 
 ---
 
@@ -195,7 +201,7 @@ The **Civilization Alliance** mod lets you pick one base civilization and then u
 This repository contains:
 
 - **Full trait tables for all 62 civilizations** — civ role, main bonuses, unique techs, team bonus, and unique unit
-- **Optimal research orders for 11 playstyles** — Tower, Bombard Tower, Castle, Infantry, Archer, Cavalry Archer, Cavalry, Scorpion, Trebuchet, Economy, and Naval
+- **Optimal research orders for 14 playstyles** — Tower, Bombard Tower, Castle, Infantry, Archer, Skirmisher, Cavalry Archer, Cavalry, War Elephant, Hand Cannoneer, Scorpion, Trebuchet, Economy, and Naval
 - **Best base-civilization recommendations** per playstyle (tech-tree completeness + native bonuses + weaknesses)
 - **62 original civilization card images** — the primary source for every entry
 - **A resource-economy summary** of all economy-related bonuses, grouped into 11 categories
